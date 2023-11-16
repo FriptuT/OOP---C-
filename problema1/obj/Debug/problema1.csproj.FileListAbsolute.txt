@@ -1,0 +1,7 @@
+M:\OOP\OOP-C-sharp\problema1\bin\Debug\problema1.exe.config
+M:\OOP\OOP-C-sharp\problema1\bin\Debug\problema1.exe
+M:\OOP\OOP-C-sharp\problema1\bin\Debug\problema1.pdb
+M:\OOP\OOP-C-sharp\problema1\obj\Debug\problema1.csproj.AssemblyReference.cache
+M:\OOP\OOP-C-sharp\problema1\obj\Debug\problema1.csproj.CoreCompileInputs.cache
+M:\OOP\OOP-C-sharp\problema1\obj\Debug\problema1.exe
+M:\OOP\OOP-C-sharp\problema1\obj\Debug\problema1.pdb
