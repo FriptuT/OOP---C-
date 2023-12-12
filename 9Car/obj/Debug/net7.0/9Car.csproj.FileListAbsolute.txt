@@ -1,0 +1,14 @@
+M:\OOP-C-sharp\9Car\bin\Debug\net7.0\9Car.exe
+M:\OOP-C-sharp\9Car\bin\Debug\net7.0\9Car.deps.json
+M:\OOP-C-sharp\9Car\bin\Debug\net7.0\9Car.runtimeconfig.json
+M:\OOP-C-sharp\9Car\bin\Debug\net7.0\9Car.dll
+M:\OOP-C-sharp\9Car\bin\Debug\net7.0\9Car.pdb
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\9Car.GeneratedMSBuildEditorConfig.editorconfig
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\9Car.AssemblyInfoInputs.cache
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\9Car.AssemblyInfo.cs
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\9Car.csproj.CoreCompileInputs.cache
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\9Car.dll
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\refint\9Car.dll
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\9Car.pdb
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\9Car.genruntimeconfig.cache
+M:\OOP-C-sharp\9Car\obj\Debug\net7.0\ref\9Car.dll
