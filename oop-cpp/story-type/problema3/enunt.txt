@@ -1,0 +1,19 @@
+3.
+Povestea bibliotecii:
+
+	O bibliotecă dorește să își automatizeze sistemul de împrumut al cărților. 
+	Implementează un program care să gestioneze împrumuturile și returnările cărților, 
+	menținând evidența cărților disponibile și a celor împrumutate.
+
+input:
+	4
+	împrumut Anna Cercul Liniștit
+	împrumut Ion Cercul Liniștit
+	returnare Anna Cercul Liniștit
+	împrumut Maria Harry Potter
+
+output:
+	Anna a împrumutat Cercul Liniștit.
+	Ion a împrumutat Cercul Liniștit.
+	Anna a returnat Cercul Liniștit.
+	Maria a împrumutat Harry Potter.

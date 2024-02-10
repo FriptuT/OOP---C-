@@ -1,4 +1,4 @@
-1.
+1***
 Poveste a prietenilor:
 
 	Andrea și prietenii săi organizează o petrecere. 
@@ -9,7 +9,7 @@ Poveste a prietenilor:
 
 
 
-2.
+2***
 Povestea punctelor de recompensă:
 
 	Într-un magazin online, clienții primesc puncte de recompensă pentru fiecare achiziție. 
@@ -25,3 +25,49 @@ output:
 	Ana primeste 20 puncte.
 	Ion primeste 10 puncte.
 	Maria primeste 40 puncte.
+
+
+3***
+Povestea bibliotecii:
+
+	O bibliotecă dorește să își automatizeze sistemul de împrumut al cărților. 
+	Implementează un program care să gestioneze împrumuturile și returnările cărților, 
+	menținând evidența cărților disponibile și a celor împrumutate.
+
+input:
+	4
+	împrumut Anna Cercul Liniștit
+	împrumut Ion Cercul Liniștit
+	returnare Anna Cercul Liniștit
+	împrumut Maria Harry Potter
+
+output:
+	Anna a împrumutat Cercul Liniștit.
+	Ion a împrumutat Cercul Liniștit.
+	Anna a returnat Cercul Liniștit.
+	Maria a împrumutat Harry Potter.
+
+4***
+Povestea produselor:
+
+	Un magazin online dorește să monitorizeze vânzările și stocurile produselor lor. 
+	Implementează un program care să permită adăugarea de produse, gestionarea stocurilor și înregistrarea vânzărilor.
+
+input:
+	adaugă_produs Laptop 1000 10
+	adaugă_produs Telefon 1500 15
+	vânzare Laptop 2
+	adaugă_produs Tablet 500 20
+output:
+	Produsul Laptop a fost adăugat în stoc.
+	Produsul Telefon a fost adăugat în stoc.
+	S-au vândut 2 bucăți din Laptop.
+	Produsul Tablet a fost adăugat în stoc.
+
+
+
+
+
+
+
+

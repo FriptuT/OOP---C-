@@ -1,0 +1,16 @@
+4***
+Povestea produselor:
+
+	Un magazin online dorește să monitorizeze vânzările și stocurile produselor lor. 
+	Implementează un program care să permită adăugarea de produse, gestionarea stocurilor și înregistrarea vânzărilor.
+
+input:
+	adaugă_produs Laptop 1000 10
+	adaugă_produs Telefon 1500 15
+	vânzare Laptop 2
+	adaugă_produs Tablet 500 20
+output:
+	Produsul Laptop a fost adăugat în stoc.
+	Produsul Telefon a fost adăugat în stoc.
+	S-au vândut 2 bucăți din Laptop.
+	Produsul Tablet a fost adăugat în stoc.
