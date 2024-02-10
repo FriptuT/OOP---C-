@@ -1,0 +1,16 @@
+2.
+Povestea punctelor de recompensă:
+
+	Într-un magazin online, clienții primesc puncte de recompensă pentru fiecare achiziție. 
+	Ajută magazinul să creeze un sistem de gestionare a punctelor de recompensă, 
+	care să calculeze câte puncte primește fiecare client pe baza sumei achizițiilor lor.
+
+input:
+	3
+	Ana 100
+	Ion 50
+	Maria 200
+output:
+	Ana primeste 20 puncte.
+	Ion primeste 10 puncte.
+	Maria primeste 40 puncte.

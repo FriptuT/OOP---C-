@@ -1,0 +1,4 @@
+3
+Andreea 50
+Alex 30
+Maria 20

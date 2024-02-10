@@ -1,0 +1,8 @@
+1.
+Poveste a prietenilor:
+
+	Andrea și prietenii săi organizează o petrecere. 
+	Ei vor să își împartă costurile în mod echitabil, 
+	dar nu știu cât de mult a cheltuit fiecare persoană. 
+	Ajută-i să creeze un program care să primească lista de persoane și suma pe care fiecare a cheltuit, 
+	și să calculeze cât trebuie să dea sau să primească fiecare pentru a egala costurile.
