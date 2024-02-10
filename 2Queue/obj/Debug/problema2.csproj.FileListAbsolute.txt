@@ -1,7 +1,0 @@
-M:\OOP-C-sharp\problema2\bin\Debug\problema2.exe.config
-M:\OOP-C-sharp\problema2\bin\Debug\problema2.exe
-M:\OOP-C-sharp\problema2\bin\Debug\problema2.pdb
-M:\OOP-C-sharp\problema2\obj\Debug\problema2.csproj.AssemblyReference.cache
-M:\OOP-C-sharp\problema2\obj\Debug\problema2.csproj.CoreCompileInputs.cache
-M:\OOP-C-sharp\problema2\obj\Debug\problema2.exe
-M:\OOP-C-sharp\problema2\obj\Debug\problema2.pdb
