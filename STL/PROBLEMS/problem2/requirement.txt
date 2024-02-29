@@ -1,0 +1,3 @@
+Maria vrea să își organizeze contactele telefonice într-o agendă digitală. 
+Ea dorește să poată adăuga, șterge și căuta contacte folosind numele sau numărul de telefon. 
+De asemenea, Maria vrea să poată afișa toate contactele în ordine alfabetică atunci când are nevoie.

@@ -1,0 +1,6 @@
+Alex este un pasionat colecționar de albume muzicale și 
+dorește să își digitalizeze colecția. 
+El vrea să creeze un catalog digital care să îi permită să adauge, 
+să șteargă și să caute albume în colecția sa. 
+Alex a auzit că programarea orientată pe obiecte (OOP) și 
+Standard Template Library (STL) din C++ îl pot ajuta să își organizeze eficient colecția.
