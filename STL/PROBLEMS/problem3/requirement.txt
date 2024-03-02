@@ -1,0 +1,4 @@
+Un nou complex comercial cu mai multe etaje de parcare dorește să implementeze 
+un sistem automatizat pentru gestionarea locurilor de parcare. 
+Sistemul trebuie să permită adăugarea și ștergerea locurilor de parcare și 
+să identifice rapid unde sunt locuri disponibile pe fiecare etaj.
