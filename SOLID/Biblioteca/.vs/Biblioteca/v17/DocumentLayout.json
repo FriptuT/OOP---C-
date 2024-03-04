@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\OOP-practice\\SOLID\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\afiseazacartiimprumutate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:afiseazacartiimprumutate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\imanagerimprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:imanagerimprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\imprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:imprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\cititor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:cititor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManagerImprumut.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\IManagerImprumut.cs",
+              "RelativeDocumentMoniker": "IManagerImprumut.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\IManagerImprumut.cs",
+              "RelativeToolTip": "IManagerImprumut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:52:36.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDisplay.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\IDisplay.cs",
+              "RelativeDocumentMoniker": "IDisplay.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\IDisplay.cs",
+              "RelativeToolTip": "IDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:28:00.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AfiseazaCartiImprumutate.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\AfiseazaCartiImprumutate.cs",
+              "RelativeDocumentMoniker": "AfiseazaCartiImprumutate.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\AfiseazaCartiImprumutate.cs",
+              "RelativeToolTip": "AfiseazaCartiImprumutate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:13:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Imprumut.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\Imprumut.cs",
+              "RelativeDocumentMoniker": "Imprumut.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\Imprumut.cs",
+              "RelativeToolTip": "Imprumut.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:46:51.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carte.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\Carte.cs",
+              "RelativeDocumentMoniker": "Carte.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\Carte.cs",
+              "RelativeToolTip": "Carte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:37:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cititor.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\Cititor.cs",
+              "RelativeDocumentMoniker": "Cititor.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\Cititor.cs",
+              "RelativeToolTip": "Cititor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:36:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:33:40.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+M:\OOP-practice\SOLID\Biblioteca\bin\Debug\Biblioteca.exe.config
+M:\OOP-practice\SOLID\Biblioteca\bin\Debug\Biblioteca.exe
+M:\OOP-practice\SOLID\Biblioteca\bin\Debug\Biblioteca.pdb
+M:\OOP-practice\SOLID\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+M:\OOP-practice\SOLID\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+M:\OOP-practice\SOLID\Biblioteca\obj\Debug\Biblioteca.exe
+M:\OOP-practice\SOLID\Biblioteca\obj\Debug\Biblioteca.pdb
