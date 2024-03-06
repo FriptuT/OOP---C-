@@ -8,6 +8,7 @@ namespace Biblioteca
 {
     internal interface IDisplay
     {
-        void Afiseaza();
+        void AfiseazaStoc();
+        void AfiseazaImprumuturi();
     }
 }

@@ -43,12 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AfiseazaCartiImprumutate.cs" />
-    <Compile Include="Carte.cs" />
-    <Compile Include="Cititor.cs" />
-    <Compile Include="IDisplay.cs" />
-    <Compile Include="IManagerImprumut.cs" />
-    <Compile Include="Imprumut.cs" />
+    <Compile Include="adaugare\Adaugare.cs" />
+    <Compile Include="adaugare\IAdaugare.cs" />
+    <Compile Include="afisare\AfiseazaCarti.cs" />
+    <Compile Include="infoCarte\Carte.cs" />
+    <Compile Include="infoCititor\Cititor.cs" />
+    <Compile Include="afisare\IDisplay.cs" />
+    <Compile Include="imprumut\IManagerImprumut.cs" />
+    <Compile Include="imprumut\Imprumut.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

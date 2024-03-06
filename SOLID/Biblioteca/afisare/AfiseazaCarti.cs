@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Biblioteca.adaugare;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,17 +7,18 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    public class AfiseazaCartiImprumutate: IDisplay
+    public class AfiseazaCarti: IDisplay
     {
-        // private Imprumut imprumut { get; set; }
         private IManagerImprumut managerImprumut;
+        private IAdaugare cartiStoc;
 
-        public AfiseazaCartiImprumutate(IManagerImprumut managerImprumut)
+        public AfiseazaCarti(IManagerImprumut managerImprumut, IAdaugare cartiStoc)
         {
             this.managerImprumut = managerImprumut;
+            this.cartiStoc = cartiStoc;
         }
 
-        public void Afiseaza()
+        public void AfiseazaImprumuturi()
         {
             foreach (var item in managerImprumut.getCartiImprumutate())
             {
@@ -30,6 +32,19 @@ namespace Biblioteca
                     Console.WriteLine(carte.getAutor());
                 }
                 Console.WriteLine();
+            }
+        }
+
+        public void AfiseazaStoc()
+        {
+            foreach (var item in cartiStoc.getCartiAdaugate())
+            {
+                Console.WriteLine(item.Key);
+                foreach (var carte in item.Value)
+                {
+                    Console.Write("Nume: ");
+                    Console.WriteLine(carte.getTitlu());
+                }
             }
         }
     }
