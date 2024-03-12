@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Biblioteca
 {
-    public class Imprumut: IManagerImprumut
+    public class Imprumut : IManagerImprumut
     {
         private Dictionary<string, List<Carte>> cartiImprumutate;
         private IAdaugare cartiAdaugate;
@@ -28,10 +28,14 @@ namespace Biblioteca
             }
             else
             {
-                cartiImprumutate[cititor.getNume()] = new List<Carte>();
+                if (!cartiImprumutate.ContainsKey(cititor.getNume()))
+                {
+                    cartiImprumutate[cititor.getNume()] = new List<Carte>();
+
+                }
+                cartiImprumutate[cititor.getNume()].Add(carte);
                 cititor.getCartiCititor().Add(carte.getTitlu());
             }
-            cartiImprumutate[cititor.getNume()].Add(carte);
         }
     }
 }
