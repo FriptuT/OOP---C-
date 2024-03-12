@@ -22,16 +22,14 @@ namespace Biblioteca
 
         public void ImprumutaCarte(Carte carte, Cititor cititor)
         {
-            if (!cartiAdaugate.getCartiAdaugate().ContainsKey(cititor.getNume()))
+            if (!cartiAdaugate.getCartiAdaugate().Contains(carte))
             {
-                //cartiImprumutate[cititor.getNume()] = new List<Carte>();
-                //cititor.getCartiCititor().Add(carte.getId());
                 Console.WriteLine("Cartea nu este in stoc, deci nu poate fi imprumutata!");
             }
             else
             {
                 cartiImprumutate[cititor.getNume()] = new List<Carte>();
-                cititor.getCartiCititor().Add(carte.getId());
+                cititor.getCartiCititor().Add(carte.getTitlu());
             }
             cartiImprumutate[cititor.getNume()].Add(carte);
         }

@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "M:\\OOP-practice\\SOLID\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\afisare\\afiseazacarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:afisare\\afiseazacarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\adaugare\\adaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:adaugare\\adaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\imprumut\\imprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:imprumut\\imprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|M:\\OOP-practice\\SOLID\\Biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\adaugare\\iadaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|M:\\OOP-practice\\SOLID\\Biblioteca\\adaugare\\adaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:adaugare\\adaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|M:\\OOP-practice\\SOLID\\Biblioteca\\afisare\\afiseazacarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:afisare\\afiseazacarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|M:\\OOP-practice\\SOLID\\Biblioteca\\imprumut\\imprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:imprumut\\imprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|M:\\OOP-practice\\SOLID\\Biblioteca\\adaugare\\iadaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:adaugare\\iadaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\infocititor\\cititor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|M:\\OOP-practice\\SOLID\\Biblioteca\\infocititor\\cititor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:infocititor\\cititor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\imprumut\\imanagerimprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:imprumut\\imanagerimprumut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\afisare\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:afisare\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|m:\\oop-practice\\solid\\biblioteca\\infocarte\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C803FF7-2314-4D88-B71C-02E9AE82E82E}|Biblioteca.csproj|solutionrelative:infocarte\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,19 +34,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IDisplay.cs",
-              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\afisare\\IDisplay.cs",
-              "RelativeDocumentMoniker": "afisare\\IDisplay.cs",
-              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\afisare\\IDisplay.cs",
-              "RelativeToolTip": "afisare\\IDisplay.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "DocumentIndex": 2,
+              "Title": "AfiseazaCarti.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\afisare\\AfiseazaCarti.cs",
+              "RelativeDocumentMoniker": "afisare\\AfiseazaCarti.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\afisare\\AfiseazaCarti.cs",
+              "RelativeToolTip": "afisare\\AfiseazaCarti.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:33:07.771Z",
+              "WhenOpened": "2024-03-07T13:34:48.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:33:49.069Z",
               "EditorCaption": ""
             },
             {
@@ -69,75 +69,21 @@
               "RelativeDocumentMoniker": "adaugare\\IAdaugare.cs",
               "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\adaugare\\IAdaugare.cs",
               "RelativeToolTip": "adaugare\\IAdaugare.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:38:10.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T13:28:14.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Adaugare.cs",
-              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\adaugare\\Adaugare.cs",
-              "RelativeDocumentMoniker": "adaugare\\Adaugare.cs",
-              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\adaugare\\Adaugare.cs",
-              "RelativeToolTip": "adaugare\\Adaugare.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:36:35.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IManagerImprumut.cs",
-              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\imprumut\\IManagerImprumut.cs",
-              "RelativeDocumentMoniker": "imprumut\\IManagerImprumut.cs",
-              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\imprumut\\IManagerImprumut.cs",
-              "RelativeToolTip": "imprumut\\IManagerImprumut.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T10:52:36.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AfiseazaCarti.cs",
-              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\afisare\\AfiseazaCarti.cs",
-              "RelativeDocumentMoniker": "afisare\\AfiseazaCarti.cs",
-              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\afisare\\AfiseazaCarti.cs",
-              "RelativeToolTip": "afisare\\AfiseazaCarti.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAEwCwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T09:13:02.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Imprumut.cs",
               "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\imprumut\\Imprumut.cs",
               "RelativeDocumentMoniker": "imprumut\\Imprumut.cs",
               "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\imprumut\\Imprumut.cs",
               "RelativeToolTip": "imprumut\\Imprumut.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAAA7AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T08:46:51.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Carte.cs",
-              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\infoCarte\\Carte.cs",
-              "RelativeDocumentMoniker": "infoCarte\\Carte.cs",
-              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\infoCarte\\Carte.cs",
-              "RelativeToolTip": "infoCarte\\Carte.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T08:37:24.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T13:25:25.774Z"
             },
             {
               "$type": "Document",
@@ -147,23 +93,21 @@
               "RelativeDocumentMoniker": "infoCititor\\Cititor.cs",
               "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\infoCititor\\Cititor.cs",
               "RelativeToolTip": "infoCititor\\Cititor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAewBMAAAAoAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T08:36:25.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T13:24:50.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwBkAAAAiAAAA",
+              "DocumentIndex": 1,
+              "Title": "Adaugare.cs",
+              "DocumentMoniker": "M:\\OOP-practice\\SOLID\\Biblioteca\\adaugare\\Adaugare.cs",
+              "RelativeDocumentMoniker": "adaugare\\Adaugare.cs",
+              "ToolTip": "M:\\OOP-practice\\SOLID\\Biblioteca\\adaugare\\Adaugare.cs",
+              "RelativeToolTip": "adaugare\\Adaugare.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T08:33:40.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T11:02:09.584Z"
             }
           ]
         }

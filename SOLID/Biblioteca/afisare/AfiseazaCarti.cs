@@ -37,15 +37,15 @@ namespace Biblioteca
 
         public void AfiseazaStoc()
         {
-            foreach (var item in cartiStoc.getCartiAdaugate())
+            int nr = 0;
+            foreach (var carte in cartiStoc.getCartiAdaugate())
             {
-                Console.WriteLine(item.Key);
-                foreach (var carte in item.Value)
-                {
-                    Console.Write("Nume: ");
-                    Console.WriteLine(carte.getTitlu());
-                }
+                Console.WriteLine(":::Carte:::");
+                Console.WriteLine($"Titlu: {carte.getTitlu()}");
+                Console.WriteLine($"Autor: {carte.getAutor()}");
+                nr++;
             }
+            Console.WriteLine($"Sunt in total : {nr} carti!");
         }
     }
 }

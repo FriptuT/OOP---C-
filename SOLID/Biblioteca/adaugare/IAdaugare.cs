@@ -8,7 +8,7 @@ namespace Biblioteca.adaugare
 {
     public interface IAdaugare
     {
-        Dictionary<string, List<Carte>> getCartiAdaugate();
-        void Adauga(Carte carte, Cititor cititor);
+        List<Carte> getCartiAdaugate();
+        void Adauga(Carte carte);
     }
 }

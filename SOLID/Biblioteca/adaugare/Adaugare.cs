@@ -8,26 +8,28 @@ namespace Biblioteca.adaugare
 {
     public class Adaugare: IAdaugare
     {
-        private Dictionary<string, List<Carte>> cartiAdaugate;
+        private List<Carte> cartiAdaugate;
 
         public Adaugare()
         {
-            this.cartiAdaugate = new Dictionary<string, List<Carte>>();
+            this.cartiAdaugate = new List<Carte>();
         }
 
-        public Dictionary<string, List<Carte>> getCartiAdaugate()
+        public List<Carte> getCartiAdaugate()
         {
             return cartiAdaugate;
         }
+        int nr = 0;
 
-        public void Adauga(Carte carte, Cititor cititor)
+        public void Adauga(Carte carte)
         {
-            if (!cartiAdaugate.ContainsKey(cititor.getNume()))
+
+            if (!cartiAdaugate.Contains(carte))
             {
-                cartiAdaugate[cititor.getNume()] = new List<Carte>();
-                cititor.getCartiCititor().Add(carte.getId());
+                cartiAdaugate.Add(carte);
             }
-            cartiAdaugate[cititor.getNume()].Add(carte);
+            nr++;
+            Console.WriteLine($"Numarul cartilor din stoc este: {nr}");
         }
     }
 }
